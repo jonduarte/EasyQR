@@ -1,0 +1,6 @@
+framework module Pods_EasyQR {
+  umbrella header "Pods-EasyQR-umbrella.h"
+
+  export *
+  module * { export * }
+}
